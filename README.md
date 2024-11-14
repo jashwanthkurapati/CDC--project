@@ -1,1 +1,1 @@
-# CDC--project
+# Chicken diseases classifier
